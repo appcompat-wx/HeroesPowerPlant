@@ -1,0 +1,9 @@
+[submodule "RenderWareFile"]
+	path = Submodules/RenderWareFile
+	url = https://github.com/igorseabra4/RenderWareFile
+[submodule "Submodules/HeroesPowerPlant.RemoteControl.ReloadedII"]
+	path = Submodules/HeroesPowerPlant.RemoteControl.ReloadedII
+	url = https://github.com/Sewer56/HeroesPowerPlant.RemoteControl.ReloadedII.git
+[submodule "Submodules/Heroes.SDK"]
+	path = Submodules/Heroes.SDK
+	url = https://github.com/Heroes-Hacking-Central/Heroes.SDK.git
