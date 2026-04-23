@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HeroesPowerPlant.RemoteControl.Shared
+build_property.ProjectDir = C:\AppBuild\HeroesPowerPlant\Submodules\HeroesPowerPlant.RemoteControl.ReloadedII\HeroesPowerPlant.RemoteControl.Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

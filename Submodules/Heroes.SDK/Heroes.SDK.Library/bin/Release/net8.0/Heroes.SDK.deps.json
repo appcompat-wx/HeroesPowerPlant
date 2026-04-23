@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Heroes.SDK/1.0.0": {
+        "dependencies": {
+          "Reloaded.Hooks.Definitions": "1.15.0",
+          "Reloaded.Memory": "9.3.2",
+          "Reloaded.Messaging.Serializer.SystemTextJson": "1.0.2",
+          "csharp-prs-interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Heroes.SDK.dll": {}
+        }
+      },
+      "csharp-prs-interfaces/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/csharp-prs-interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Reloaded.Hooks.Definitions/1.15.0": {
+        "runtime": {
+          "lib/net6.0/Reloaded.Hooks.Definitions.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
+          }
+        }
+      },
+      "Reloaded.Memory/9.3.2": {
+        "runtime": {
+          "lib/net8.0/Reloaded.Memory.dll": {
+            "assemblyVersion": "9.3.2.0",
+            "fileVersion": "9.3.2.0"
+          }
+        }
+      },
+      "Reloaded.Messaging.Interfaces/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Reloaded.Messaging.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Reloaded.Messaging.Serializer.SystemTextJson/1.0.2": {
+        "dependencies": {
+          "Reloaded.Messaging.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Reloaded.Messaging.Serializer.SystemTextJson.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heroes.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "csharp-prs-interfaces/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y/XBpFL7Bw1d5Ur6oTbI9RrYXgCkPGHxS3M0Eh6KnnciOOcfOpqaVwUliPvO/PMD8v/U3PmcJ1ThwxB+b0rFTw==",
+      "path": "csharp-prs-interfaces/1.0.0",
+      "hashPath": "csharp-prs-interfaces.1.0.0.nupkg.sha512"
+    },
+    "Reloaded.Hooks.Definitions/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLY20vYB0fS2xwu6RDQVwlJxt2//KXLigYrCsCuzt5QFQqkvft4abq9FWPeCJYcvEeg/GQpJ3LC+108/4I2l+g==",
+      "path": "reloaded.hooks.definitions/1.15.0",
+      "hashPath": "reloaded.hooks.definitions.1.15.0.nupkg.sha512"
+    },
+    "Reloaded.Memory/9.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WF4AAzzvLqYzIhoWsILfB10A+blkQZ9VyQ/OYYxsUsYxxUj7lzYbcLpMQQ1ONnCdWHlIbFWO4Cq1DmKvWdP23g==",
+      "path": "reloaded.memory/9.3.2",
+      "hashPath": "reloaded.memory.9.3.2.nupkg.sha512"
+    },
+    "Reloaded.Messaging.Interfaces/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9cpROhd/xNvMvJ3FWeUAUGVnG9PBgidWcpttczvhrKsQ85MN3j4tvRNFzUAwm/eSAK2vQaf8PPSC6US7v7K+bw==",
+      "path": "reloaded.messaging.interfaces/1.0.0",
+      "hashPath": "reloaded.messaging.interfaces.1.0.0.nupkg.sha512"
+    },
+    "Reloaded.Messaging.Serializer.SystemTextJson/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JAnQ8SA2TkZthNfGoBLvZhRj64pTGozK6rAZpR1FPUVmchX0PazL2pR17jSeD6+BP1j5GO9IrzX7U5k8hGkFRQ==",
+      "path": "reloaded.messaging.serializer.systemtextjson/1.0.2",
+      "hashPath": "reloaded.messaging.serializer.systemtextjson.1.0.2.nupkg.sha512"
+    }
+  }
+}

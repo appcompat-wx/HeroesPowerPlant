@@ -1,0 +1,12 @@
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\bin\Release\RenderWareFile.dll
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\bin\Release\RenderWareFile.pdb
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.csproj.AssemblyReference.cache
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.csproj.CoreCompileInputs.cache
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.dll
+D:\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.pdb
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\bin\Release\RenderWareFile.dll
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\bin\Release\RenderWareFile.pdb
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.csproj.AssemblyReference.cache
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.csproj.CoreCompileInputs.cache
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.dll
+C:\AppBuild\HeroesPowerPlant\Submodules\RenderWareFile\RenderWareFile\obj\Release\RenderWareFile.pdb
